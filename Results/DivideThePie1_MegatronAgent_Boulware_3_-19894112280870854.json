@@ -1,0 +1,88 @@
+{
+  "__weakref__": null,
+  "agreement": [
+    "585_414"
+  ],
+  "annotation": {
+    "n_repetitions": 5,
+    "rep": 3
+  },
+  "broken": false,
+  "current_offer": [
+    "585_414"
+  ],
+  "current_proposer": "nRS8IJv27",
+  "current_proposer_agent": null,
+  "effective_scenario_name": "-19894112280870854",
+  "error_details": "",
+  "execution_time": 2.3519474000204355,
+  "has_error": false,
+  "kalai_optimality": 0.6653328926512495,
+  "last_negotiator": "Boulware@1",
+  "last_thread": "",
+  "max_utils": [
+    1.0,
+    1.0
+  ],
+  "max_welfare_optimality": 1.0,
+  "mechanism_name": "-19894112280870854",
+  "mechanism_type": "negmas.sao.mechanism.SAOMechanism",
+  "modified_kalai_optimality": 0.6903685765621209,
+  "n_acceptances": 2,
+  "n_negotiators": 2,
+  "n_repetitions": 5,
+  "n_steps": 2542,
+  "nash_optimality": 0.6653328926512495,
+  "negotiator_ids": [
+    "nU7Zw9Kb2",
+    "nRS8IJv27"
+  ],
+  "negotiator_names": [
+    "MegatronAgent@0",
+    "Boulware@1"
+  ],
+  "negotiator_time_limit": Infinity,
+  "negotiator_times": [
+    1.1939079998992383,
+    0.5745397999417037
+  ],
+  "negotiator_types": [
+    "__mp_main__.MegatronAgent",
+    "anl.anl2024.negotiators.builtins.wrappers.Boulware"
+  ],
+  "new_offerer_agents": [
+    null,
+    null
+  ],
+  "new_offers": [],
+  "params": null,
+  "pareto_optimality": 0.9293309800068333,
+  "partners": [
+    "MegatronAgent",
+    "Boulware"
+  ],
+  "pend": 0,
+  "pend_per_second": 0,
+  "relative_time": 0.7023200943767204,
+  "rep": 3,
+  "reserved_values": [
+    0.26110235020094585,
+    0.20908845459130934
+  ],
+  "results": null,
+  "run_id": "-19894112280870854",
+  "running": false,
+  "scenario": "DivideThePie1",
+  "started": true,
+  "step": 1785,
+  "step_time_limit": Infinity,
+  "threads": {},
+  "time": 2.3517659000353888,
+  "time_limit": 60,
+  "timedout": false,
+  "utilities": [
+    0.19065357442705383,
+    0.8093464255729461
+  ],
+  "waiting": false
+}
